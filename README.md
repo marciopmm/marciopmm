@@ -1,5 +1,5 @@
 ## :smiley: Hi, I’m Marcio Paulo Mello Martins!
-- 👋 I'm 46 years old and I have plus 25 years for coding experience!
+- 👋 I'm 46 years old and I have 25+ years for coding experience!
 - 👀 I’m interested in Data Science, Python, C# and TypeScript development! 
 - 🌱 I’m currently learning Python, Data Visualization, AI & Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science Projects, as well on C#, Typescript and Python projects too.
