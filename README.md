@@ -2,7 +2,7 @@
 - 👋 I'm 46 years old and I have 25+ years for coding experience!
 - 👀 I’m interested in Data Science, Python, C# and Angular development! 
 - 🌱 I’m currently learning Python, Data Visualization, AI & Machine Learning.
-- 💞️ I’m looking to collaborate on Data Science Projects, as well on C#, Typescript and Python projects too.
+- 💞️ I’m looking to collaborate on Data Science Projects, as well on C#, Angular and Python projects too.
 - 📫 How to reach me:
   - marciopmm@gmail.com
   - https://www.instagram.com/marciopmm/
