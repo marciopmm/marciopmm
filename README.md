@@ -1,8 +1,8 @@
 ## :smiley: Hi, I’m Marcio Martins!
-- 👋 I'm 47 years old and I have 25+ years in coding experience!
-- 👀 I’m interested in Data Science, Python, C# and Angular development! 
-- 🌱 I’m currently learning Python, Data Visualization, AI & Machine Learning.
-- 💞️ I’m looking to collaborate on Data Science Projects, as well on C#, Angular and Python projects too.
+- 👋 I'm 50 years old and I have 25+ years in coding experience!
+- 👀 I’m interested in Data Science, Python, C#, React and Angular development! 
+- 🌱 I’m currently learning Python, AI Models Development & Machine Learning.
+- 💞️ I’m looking to collaborate on Data Science Projects, as well on C#, React, Angular and Python projects too.
 - 🏆 Please visit my portfolio at https://marciomartins.dev
 - 📫 How to reach me:
   - marciopmm@gmail.com
